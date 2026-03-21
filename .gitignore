@@ -1,0 +1,14 @@
+# Environments
+.visvenv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
